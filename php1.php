@@ -1,5 +1,0 @@
-<?php
-
-download
-
-phpinfo();
